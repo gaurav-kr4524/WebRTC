@@ -132,11 +132,6 @@
     box-shadow: none;
 }
 
-.very-small{
-    font-size: 6px !important;
-}
-
-
 #close-single-peer-btn {
     position: fixed;
     top: 0;
